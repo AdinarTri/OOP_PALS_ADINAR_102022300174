@@ -11,6 +11,7 @@ public class Main {
 
         // Todo : Create Loop list menu
         while (true) {
+            System.out.println("=====Inventaris Makanan EAD=====");
             System.out.println("1. Tambah Makanan kering");
             System.out.println("2. Tambah Makanan Basah");
             System.out.println("3. Tampilkan Semua Makanan");
