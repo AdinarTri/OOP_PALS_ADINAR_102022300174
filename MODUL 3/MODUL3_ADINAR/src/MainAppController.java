@@ -156,15 +156,15 @@ public class MainAppController {
 
     // TODO: Buat kelas InvalidDateException
     public class InvalidDateException extends Exception{
-        public InvalidDateException(String Message){
-            super(Message);
+        public InvalidDateException(String message){
+            super(message);
         }
     }
 
     // TODO: Buat kelas MissingDateException
     public class MissingDateException extends Exception{
-        public MissingDateException (String Message){
-            super(Message);
+        public MissingDateException (String message){
+            super(message);
         }
     }
 
